@@ -50,7 +50,7 @@ No additional dependencies or package installation are required.
 
 ## 🌐 Live Demo
 
-A live demo will be added soon.
+[View Live Demo](https://tasmia-maha.github.io/landing-page/)
 
 ## 📁 Project Structure
 

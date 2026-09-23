@@ -26,7 +26,7 @@ The page includes a navigation bar, conference hero section, speaker profiles, p
 
 ## 📸 Screenshot
 
-![DEVCONF 2026 Landing Page](./img/screenshot.png)
+![DEVCONF 2026 Landing Page](/img/screenshot1.png)
 
 ## 🚀 Getting Started
 
